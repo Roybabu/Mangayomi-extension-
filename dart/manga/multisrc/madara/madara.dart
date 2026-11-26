@@ -507,6 +507,7 @@ class Madara extends MProvider {
 
   String getMangaSubString() {
     const sourceTypeMap = {
+      "Grabber Zone (Roybabu)": "comics",
       "Olaoe": "works",
       "Mangax Core": "works",
       "Azora": "series",
