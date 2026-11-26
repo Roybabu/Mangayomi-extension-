@@ -1,0 +1,24 @@
+[
+  {
+    "name": "RoyalRoad",
+    "id": 1021112861,
+    "baseUrl": "https://royalroad.com",
+    "lang": "en",
+    "typeSource": "single",
+    "iconUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/dart/novel/src/en/royalroad/icon.png",
+    "dateFormat": "MMM dd yyyy",
+    "dateFormatLocale": "en",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/dart/novel/src/en/royalroad/royalroad.dart",
+    "apiUrl": "https://royalroad.com",
+    "version": "0.0.1",
+    "isManga": false,
+    "itemType": 2,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 0,
+    "notes": "Community RoyalRoad source; in-app compatibility not verified."
+  }
+]

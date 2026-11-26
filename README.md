@@ -2,7 +2,13 @@
 
 Experimental manga and anime sources for Mangayomi.
 
-## Add this repository
+## Add all repositories at once
+
+[Add Manga, Anime and Novels to Mangayomi](https://intradeus.github.io/http-protocol-redirector?r=mangayomi%3A%2F%2Fadd-repo%3Frepo_name%3DRoybabu%2520Extensions%26repo_url%3Dhttps%3A%2F%2Fgithub.com%2FRoybabu%2FMangayomi-extension-%26manga_url%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2FRoybabu%2FMangayomi-extension-%2Fmain%2Findex.json%26anime_url%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2FRoybabu%2FMangayomi-extension-%2Fmain%2Fanime_index.json%26novel_url%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2FRoybabu%2FMangayomi-extension-%2Fmain%2Fnovel_index.json)
+
+The Novel catalog includes RoyalRoad (community maintained). Sources have not been tested on Mangayomi 0.9.97.
+
+## Add the manga repository manually
 
 In Mangayomi, open Settings > Browse and add the following as a manga extension repository:
 
