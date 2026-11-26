@@ -54,7 +54,7 @@
     "isFullData": false,
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
-    "notes": "Separate Roybabu listing; in-app testing required.",
+    "notes": "",
     "name": "Grabber Zone (Roybabu)",
     "id": 817629305,
     "baseUrl": "https://grabber.zone",
@@ -62,7 +62,7 @@
     "typeSource": "madara",
     "iconUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/dart/manga/multisrc/madara/src/all/grabberzone/icon.png",
     "sourceCodeUrl": "https://raw.githubusercontent.com/Roybabu/Mangayomi-extension-/main/dart/manga/multisrc/madara/madara.dart",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "sourceCodeLanguage": 0
   },
   {
