@@ -1,0 +1,24 @@
+[
+  {
+    "name": "UHDMovies",
+    "id": 817629304,
+    "baseUrl": "https://uhdmovies.ceo",
+    "lang": "en",
+    "typeSource": "single",
+    "iconUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/dart/anime/src/en/uhdmovies/icon.png",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": false,
+    "hasCloudflare": true,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/Roybabu/Mangayomi-extension-/main/dart/anime/src/en/uhdmovies/uhdmovies.dart",
+    "apiUrl": "",
+    "version": "0.1.0",
+    "isManga": false,
+    "itemType": 1,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 0,
+    "notes": "Experimental: download hosts and playback not verified."
+  }
+]
