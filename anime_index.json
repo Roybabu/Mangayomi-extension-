@@ -12,13 +12,13 @@
     "hasCloudflare": true,
     "sourceCodeUrl": "https://raw.githubusercontent.com/Roybabu/Mangayomi-extension-/main/dart/anime/src/en/uhdmovies/uhdmovies.dart",
     "apiUrl": "",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "isManga": false,
     "itemType": 1,
     "isFullData": false,
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
     "sourceCodeLanguage": 0,
-    "notes": "Experimental: download hosts and playback not verified."
+    "notes": ""
   }
 ]
