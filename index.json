@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Read Comics Online",
+    "id": 817629301,
+    "baseUrl": "https://readcomicsonline.ru",
+    "lang": "en",
+    "typeSource": "single",
+    "iconUrl": "https://readcomicsonline.ru/favicon.ico",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": false,
+    "hasCloudflare": true,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/Roybabu/Mangayomi-extension-/main/javascript/manga/src/en/readcomicsonline.js",
+    "apiUrl": "",
+    "version": "0.1.0",
+    "isManga": true,
+    "itemType": 0,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 1,
+    "notes": "Experimental; in-app testing required."
+  }
+]
