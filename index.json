@@ -12,14 +12,14 @@
     "hasCloudflare": true,
     "sourceCodeUrl": "https://raw.githubusercontent.com/Roybabu/Mangayomi-extension-/main/javascript/manga/src/en/readcomicsonline.js",
     "apiUrl": "",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "isManga": true,
     "itemType": 0,
     "isFullData": false,
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
     "sourceCodeLanguage": 1,
-    "notes": "Experimental; in-app testing required."
+    "notes": ""
   },
   {
     "name": "Rizz Fables",
@@ -34,14 +34,14 @@
     "hasCloudflare": true,
     "sourceCodeUrl": "https://raw.githubusercontent.com/Roybabu/Mangayomi-extension-/main/javascript/manga/src/en/rizzfables.js",
     "apiUrl": "",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "isManga": true,
     "itemType": 0,
     "isFullData": false,
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
     "sourceCodeLanguage": 1,
-    "notes": "Experimental; in-app testing required."
+    "notes": ""
   },
   {
     "dateFormat": "dd.MM.yyyy",
@@ -76,7 +76,7 @@
     "isFullData": false,
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
-    "notes": "Experimental; in-app testing required.",
+    "notes": "",
     "name": "Webtoons",
     "id": 118325925,
     "baseUrl": "https://www.webtoons.com",
@@ -84,7 +84,7 @@
     "typeSource": "single",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Naver_Line_Webtoon_logo.png",
     "sourceCodeUrl": "https://raw.githubusercontent.com/Roybabu/Mangayomi-extension-/main/javascript/manga/src/all/webtoons.js",
-    "version": "0.0.46",
+    "version": "0.0.47",
     "sourceCodeLanguage": 1
   },
   {
@@ -100,14 +100,14 @@
     "hasCloudflare": false,
     "sourceCodeUrl": "https://raw.githubusercontent.com/Roybabu/Mangayomi-extension-/main/javascript/manga/src/en/comicklive.js",
     "apiUrl": "",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "isManga": true,
     "itemType": 0,
     "isFullData": false,
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
     "sourceCodeLanguage": 1,
-    "notes": "Unofficial ComicK namesake. Experimental; in-app testing required."
+    "notes": ""
   },
   {
     "name": "MangaFire (Roybabu)",
